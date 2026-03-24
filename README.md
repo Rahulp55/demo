@@ -1,3 +1,3 @@
-# demo
-this is my first github repositry
-author - rahul
+# Demo
+This is my first github repositry.
+Author - rahul
